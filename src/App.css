@@ -1,0 +1,22 @@
+/* .normal-form {
+  padding: 15px;
+  border: 1px solid #ddd;
+  border-radius: 10px;
+  width: fit-content;
+}
+.form-control {
+  margin-bottom: 15px;
+}
+
+.form-control > label {
+  width: 100%;
+  display: block;
+  font-weight: bold;
+}
+
+input[type="radio"] + label,
+input[type="checkbox"] + label {
+  display: inline-block;
+  width: auto;
+  font-weight: normal;
+} */
